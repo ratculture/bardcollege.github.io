@@ -4,9 +4,9 @@
  * L&T quote generator
  */
 
-var things = ["Music", "Art", "Dance", "Theater", "Math", "Architecture"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
-var castles = ["museums", "bridges", "cities"]
+var things = ["rvt culture", "rat culture", "rVt culture", "RAT CULTURE", "RC", "Rat Culture"];
+var programmers = ["yung bool", "RVTBOY", "Rat King", "RVTDUDE", "RVTATICIAN", "RATitect"]
+var castles = ["Rat Den", "Rat fortress", "RVTNEST"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
 
