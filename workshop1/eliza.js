@@ -29,24 +29,18 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "It's Rat Culture Bitch"
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+    "Im talking about rat culture",
+   
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "Fucking Rat Culture My dude",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "Rat Culture baby",
+    
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
